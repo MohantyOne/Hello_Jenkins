@@ -105,3 +105,7 @@ Blackboard.
 ### Thank You  
 Justin Bankes <justin@liatrio.com>  
 Shane MacBride <shanem@liatrio.com>
+
+#######
+Jyotiranjan Mohanty From bangalore India please send more articles like this CI/CD of C++ project in jenkins.
+
